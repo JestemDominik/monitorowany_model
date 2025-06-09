@@ -1,8 +1,8 @@
-os
 json
-streamlit
-pandas
-pycaret
-dotenv
-langfuse
-openai
+streamlit==1.44.1
+pandas==2.1.4
+pycaret==3.3.2
+python-dotenv
+langfuse==3.0.0
+openai==1.66.3
+boto3
